@@ -9,5 +9,5 @@ module.exports = {x,calculateSum}
 
 
 // we can write line 8 also like that 
-module.exports.x =x
-module.exports.calculateSum =calculateSum
+// module.exports.x =x
+// module.exports.calculateSum =calculateSum
